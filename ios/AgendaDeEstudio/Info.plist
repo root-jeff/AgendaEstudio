@@ -48,5 +48,12 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Klavika-Bold.otf</string>
+		<string>Klavika-Light.otf</string>
+		<string>Klavika-Medium.otf</string>
+		<string>Klavika-Regular.otf</string>
+	</array>
 </dict>
 </plist>

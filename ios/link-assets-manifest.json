@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/Fonts/Klavika-Bold.otf",
+      "sha1": "a9214262aa3348decb1ebee5761a3403215ecc32"
+    },
+    {
+      "path": "src/assets/Fonts/Klavika-Light.otf",
+      "sha1": "27ed2cc7b0dab84f1ac07ecdb75015b312516820"
+    },
+    {
+      "path": "src/assets/Fonts/Klavika-Medium.otf",
+      "sha1": "90d623de0d2408df885f7cdd37eb447a0834a076"
+    },
+    {
+      "path": "src/assets/Fonts/Klavika-Regular.otf",
+      "sha1": "5581a88c0353ccd2ca43fecfd53019ebb310a25d"
+    }
+  ]
+}
